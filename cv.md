@@ -20,3 +20,9 @@ I have an economic education and work experience in the field of sales, but sinc
 * Git, GitHub
 * VS Code
 * Adobe Photoshop
+
+***
+#### Languages:
+* Ukrainian - Native
+* English - Pre-Intermediate
+* Russian - Upper-Intermediate
