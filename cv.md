@@ -18,5 +18,5 @@ I have an economic education and work experience in the field of sales, but sinc
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
-* VS Code, IntelliJ IDEA
-* Adobe Photoshop, Illustrator, InDesign
+* VS Code
+* Adobe Photoshop
