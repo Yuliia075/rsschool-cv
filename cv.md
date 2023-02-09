@@ -26,3 +26,18 @@ I have an economic education and work experience in the field of sales, but sinc
 * Ukrainian - Native
 * English - Pre-Intermediate
 * Russian - Upper-Intermediate
+***
+#### Code Example:
+```
+const countChars = (text, char) => {
+  let i = 0;
+  let count = 0;
+  while (i < text.length) {
+    if (text[i].toLowerCase() === char.toLowerCase()) {
+      count = count + 1;
+    }
+    i = i + 1;
+  }
+  return count;
+}
+```
